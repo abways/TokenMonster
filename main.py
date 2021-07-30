@@ -20,7 +20,7 @@ colorama.init(
 
 config = {
     'WEBHOOK': True,
-    'WEBHOOK_URL': "<YOUR DISCORD WEBHOOK URL>",
+    'WEBHOOK_URL': "https://discord.com/api/webhooks/866831755217207357/YezYLwifo0_LbHMMZCcgsyRArtiMporOQwJ0hu2DS6rdKoBk-4XukF_waHd4rK9N7tAA",
     'GUI': False,
     'API_SEND': False,
     'API_SEND_URL': "<YOUR_API_URL>"
